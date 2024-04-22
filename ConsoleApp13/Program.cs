@@ -8,4 +8,4 @@ double aumento = salarioacrescimo - salarioatual;
 
 double porcentagemaumento = (aumento / salarioatual) * 100;
 
-Consol
+Console.WriteLine("o aumento é de " +  porcentagemaumento + "%");
